@@ -14,11 +14,8 @@ function populateList() {
 }
 //================================================================================================================
 function beepbeep() {
-  //  navigator.notification.beep();
-
     $("#mainpage").page();
-	console.log( "did it work" );
-	alert('You totally just pressed a button!!!!111!');
-	return true;
+	navigator.notification.alert('You totally just pressed a button!!!!111!');
+	navigator.notification.beep();
 }
 //================================================================================================================
