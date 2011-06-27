@@ -9,7 +9,7 @@ Use
 --------------
 - Create a new Phonegap project in Xcode
 - Clone this repo to the www folder of your new project
-- Follow the instructions in the tutorial, and incorporate [JQuery](http://jquery.com/) and [JQuery Mobile](http://jquerymobile.com/) into your new project
+- Follow the instructions in the [tutorial](http://wiki.phonegap.com/w/page/41524872/JQuery-Mobile-Tutorial-(iOS)), and incorporate [JQuery](http://jquery.com/) and [JQuery Mobile](http://jquerymobile.com/) into your new project
 
 Pre Requisites
 --------------
